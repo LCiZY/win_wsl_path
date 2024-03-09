@@ -1,6 +1,6 @@
 {
   "name": "win_wsl_path",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "Convert paths between Windows and WSL systems.",
   "main": "index.js",
   "scripts": {
