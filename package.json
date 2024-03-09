@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/LCiZY/win_wsl_path/issues"
   },
-  "homepage": "https://github.com/LCiZY/win_wsl_path#readme"
+  "homepage": "https://github.com/LCiZY/win_wsl_path#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "shell-oooooyoung": "^1.1.8"
+  }
 }
